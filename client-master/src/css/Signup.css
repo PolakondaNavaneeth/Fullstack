@@ -1,0 +1,13 @@
+.signup-container {
+  height: calc(100vh - 56px); /* Adjust for the height of the fixed navbar */
+  background-color: #f8f9fa;
+  margin-top: 56px; /* To avoid overlap with the fixed navbar */
+}
+
+.signup-box {
+  max-width: 400px;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+}

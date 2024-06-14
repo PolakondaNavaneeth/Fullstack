@@ -1,0 +1,20 @@
+{
+    "name": "restaurant",
+    "description": "South",
+    "choice": {
+        "VEG": [
+            "Fried Green Tomatoes",
+            "Collard Greens",
+            "Cornbread",
+            "Pimento Cheese",
+            "Okra and Tomatoes"
+        ],
+        "NONVEG": [
+            "Fried Chicken",
+            "BBQ Ribs",
+            "Shrimp and Grits",
+            "Jambalaya",
+            "Catfish Po'Boy"
+        ]
+    }
+}
